@@ -1,0 +1,6 @@
+name: SwingFixPM
+version: 0.1
+api: [4.0.0]
+author: Chaos
+description: A fix for pocketmine not broadcasting the swing animation for hits that dont 'matter'
+main: Chaos\Main
